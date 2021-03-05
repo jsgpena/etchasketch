@@ -4,6 +4,7 @@ body{
     align-items: center;
     flex-direction: column;
     margin-top: -30px;
+    background: rgb(229, 250, 239);
 }
 
 h1{
